@@ -22,7 +22,7 @@ Esse trio de profissionais é uma maneira de otimizar tempo para o desenvolvimen
 - Unity: Blueprint e C++
 - 
 
-## 🕹️ Programming language 🔢
+## 🕹️ Top programming languages for Game Development 🔢
 - C++
 - C#
 - Java
