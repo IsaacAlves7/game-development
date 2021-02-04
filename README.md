@@ -30,5 +30,5 @@ Esse trio de profissionais é uma maneira de otimizar tempo para o desenvolvimen
 - HTML5/ CSS3/ JavaScript
 
 ## My Projects of Game Development
-![full-snake](https://user-images.githubusercontent.com/61624336/106829001-0a482980-666a-11eb-99e6-7fc2e5962798.png)
+<img src="https://user-images.githubusercontent.com/61624336/106829001-0a482980-666a-11eb-99e6-7fc2e5962798.png" height="40">
 
