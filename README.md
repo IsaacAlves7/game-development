@@ -31,7 +31,5 @@ Esse trio de profissionais é uma maneira de otimizar tempo para o desenvolvimen
 
 ## 🕹️ My Projects of Game Development 🎮
 <div align="left">
-<img src="https://user-images.githubusercontent.com/61624336/106829001-0a482980-666a-11eb-99e6-7fc2e5962798.png" height="77">
-  <a href=""><h1>The Snake Game</h1></a>
-<img src="https://user-images.githubusercontent.com/61624336/106829001-0a482980-666a-11eb-99e6-7fc2e5962798.png" height="77">
+<img src="https://user-images.githubusercontent.com/61624336/106829001-0a482980-666a-11eb-99e6-7fc2e5962798.png" height="77" title="The Snake Game">
 </div>
