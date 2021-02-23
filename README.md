@@ -1,4 +1,4 @@
-# 🕹️ It's a repository of Game Development learning 🎮
+# <img src="https://emojis.slackmojis.com/emojis/images/1614007419/14350/good-game.gif?1614007419" height="30"> It's a repository of Game Development learning 🕹️🎮
 <a href="https://github.com/IsaacAlves7/game-development"><img src="https://thegamingeek.com/wp-content/uploads/2019/02/game-development.jpg"></a>
 
 ## 🕹️ First step: Game Development 👾
